@@ -1,0 +1,1001 @@
+Order_ID,Menu_Item,Price_USD,Quantity,Time_of_Day,Day_of_Week,Is_Promo_Applied,Customer_Age,Customer_Gender
+ORD1000,Filet-O-Fish,3.3,4,Breakfast,Friday,0,67,Male
+ORD1001,McFlurry,7.53,1,Lunch,Monday,0,46,Female
+ORD1002,Cheeseburger,6.34,4,Breakfast,Tuesday,1,24,Other
+ORD1003,Coke,1.92,1,Lunch,Wednesday,0,53,Female
+ORD1004,Filet-O-Fish,9.27,3,Breakfast,Sunday,0,29,Female
+ORD1005,Iced Coffee,8.11,3,Lunch,Sunday,1,21,Male
+ORD1006,Fries,1.21,1,Late Night,Saturday,0,43,Female
+ORD1007,Filet-O-Fish,6.86,1,Dinner,Saturday,0,61,Female
+ORD1008,Cheeseburger,7.94,3,Late Night,Tuesday,0,17,Male
+ORD1009,Coke,4.37,4,Late Night,Tuesday,1,33,Male
+ORD1010,McFlurry,1.62,3,Breakfast,Saturday,0,24,Male
+ORD1011,Cheeseburger,1.7,4,Lunch,Thursday,1,42,Female
+ORD1012,Cheeseburger,1.94,1,Dinner,Thursday,1,43,Female
+ORD1013,Fries,8.56,1,Breakfast,Wednesday,0,29,Female
+ORD1014,Chicken Nuggets,9.2,4,Breakfast,Friday,1,49,Male
+ORD1015,Coke,2.11,1,Breakfast,Wednesday,1,20,Other
+ORD1016,McChicken,3.12,4,Late Night,Friday,1,26,Female
+ORD1017,Cheeseburger,2.49,2,Lunch,Tuesday,1,61,Other
+ORD1018,Chicken Nuggets,2.68,3,Lunch,Monday,0,52,Male
+ORD1019,McChicken,8.54,2,Dinner,Wednesday,0,27,Female
+ORD1020,Coke,3.99,4,Lunch,Wednesday,0,43,Other
+ORD1021,Big Mac,3.8,3,Lunch,Friday,0,33,Female
+ORD1022,Iced Coffee,3.05,4,Breakfast,Tuesday,0,17,Female
+ORD1023,Chicken Nuggets,6.47,3,Breakfast,Tuesday,1,22,Female
+ORD1024,Apple Pie,4.41,3,Late Night,Sunday,1,22,Other
+ORD1025,Big Mac,7.7,3,Breakfast,Friday,0,69,Male
+ORD1026,Iced Coffee,2.85,3,Breakfast,Tuesday,1,34,Female
+ORD1027,Fries,8.09,4,Breakfast,Saturday,1,61,Male
+ORD1028,Filet-O-Fish,6.43,3,Breakfast,Thursday,0,18,Male
+ORD1029,McFlurry,2.03,3,Late Night,Sunday,0,65,Other
+ORD1030,Apple Pie,4.73,2,Breakfast,Saturday,0,35,Other
+ORD1031,Fries,8.77,1,Dinner,Monday,1,17,Male
+ORD1032,Coke,9.31,1,Dinner,Wednesday,0,59,Female
+ORD1033,Fries,5.19,2,Dinner,Sunday,0,22,Other
+ORD1034,Filet-O-Fish,5.33,2,Dinner,Monday,0,37,Female
+ORD1035,Coke,9.27,4,Breakfast,Wednesday,1,30,Female
+ORD1036,Apple Pie,6.28,4,Dinner,Thursday,1,27,Female
+ORD1037,Filet-O-Fish,1.3,4,Breakfast,Tuesday,1,17,Male
+ORD1038,McChicken,9.21,2,Late Night,Saturday,1,62,Female
+ORD1039,McFlurry,3.23,2,Dinner,Friday,1,23,Male
+ORD1040,Apple Pie,6.2,3,Lunch,Saturday,1,28,Male
+ORD1041,McChicken,2.49,4,Dinner,Thursday,1,27,Female
+ORD1042,Iced Coffee,1.3,4,Dinner,Monday,1,67,Female
+ORD1043,Apple Pie,3.8,4,Breakfast,Friday,0,21,Female
+ORD1044,Iced Coffee,8.02,1,Dinner,Tuesday,0,29,Female
+ORD1045,Coke,3.5,3,Lunch,Thursday,0,21,Male
+ORD1046,McChicken,2.98,4,Breakfast,Friday,0,52,Female
+ORD1047,McFlurry,2.91,4,Breakfast,Thursday,0,48,Female
+ORD1048,Filet-O-Fish,5.64,4,Late Night,Thursday,0,55,Male
+ORD1049,Cheeseburger,9.78,1,Late Night,Tuesday,1,36,Other
+ORD1050,Fries,5.13,1,Dinner,Sunday,1,38,Other
+ORD1051,Big Mac,6.02,2,Late Night,Wednesday,1,63,Male
+ORD1052,McFlurry,8.75,3,Late Night,Friday,0,51,Other
+ORD1053,McChicken,5.82,2,Late Night,Tuesday,0,58,Male
+ORD1054,Cheeseburger,2.66,3,Breakfast,Thursday,0,15,Female
+ORD1055,McFlurry,3.7,1,Breakfast,Tuesday,0,24,Female
+ORD1056,McChicken,3.79,4,Breakfast,Sunday,0,57,Other
+ORD1057,Chicken Nuggets,4.58,2,Late Night,Wednesday,0,30,Female
+ORD1058,Chicken Nuggets,4.84,4,Breakfast,Saturday,1,60,Other
+ORD1059,Iced Coffee,8.2,2,Late Night,Friday,1,22,Other
+ORD1060,McFlurry,4.14,1,Breakfast,Wednesday,0,63,Female
+ORD1061,Chicken Nuggets,5.21,1,Breakfast,Monday,0,39,Female
+ORD1062,McChicken,6.62,1,Lunch,Friday,0,64,Other
+ORD1063,Iced Coffee,4.4,2,Dinner,Wednesday,0,26,Female
+ORD1064,McChicken,8.53,3,Late Night,Thursday,1,39,Male
+ORD1065,Iced Coffee,6.29,2,Lunch,Friday,0,31,Female
+ORD1066,McFlurry,3.65,3,Breakfast,Friday,0,40,Female
+ORD1067,Cheeseburger,7.43,2,Late Night,Tuesday,0,60,Male
+ORD1068,Filet-O-Fish,5.75,2,Breakfast,Thursday,0,62,Female
+ORD1069,Apple Pie,5.81,1,Dinner,Monday,0,28,Female
+ORD1070,Cheeseburger,5.33,4,Lunch,Saturday,1,55,Other
+ORD1071,Coke,5.47,4,Dinner,Sunday,0,50,Female
+ORD1072,McChicken,7.89,3,Lunch,Wednesday,0,37,Female
+ORD1073,Coke,1.93,4,Breakfast,Tuesday,0,57,Male
+ORD1074,Cheeseburger,4.01,2,Dinner,Wednesday,0,20,Other
+ORD1075,Iced Coffee,1.68,2,Dinner,Monday,1,61,Other
+ORD1076,Apple Pie,7.78,1,Breakfast,Monday,0,19,Other
+ORD1077,Apple Pie,3.45,1,Dinner,Friday,0,57,Female
+ORD1078,Big Mac,9.08,4,Late Night,Sunday,0,39,Other
+ORD1079,Apple Pie,5.74,3,Lunch,Monday,0,32,Male
+ORD1080,Filet-O-Fish,8.21,4,Lunch,Wednesday,0,27,Other
+ORD1081,Apple Pie,9.81,4,Lunch,Thursday,0,57,Male
+ORD1082,Cheeseburger,8.56,4,Late Night,Thursday,0,28,Other
+ORD1083,Big Mac,8.8,4,Lunch,Friday,1,42,Other
+ORD1084,Cheeseburger,4.67,2,Breakfast,Saturday,0,32,Male
+ORD1085,Cheeseburger,5.97,3,Dinner,Wednesday,1,42,Other
+ORD1086,Fries,3.28,2,Late Night,Wednesday,0,65,Other
+ORD1087,Big Mac,2.77,3,Lunch,Monday,1,41,Other
+ORD1088,Cheeseburger,5.55,1,Breakfast,Sunday,1,46,Female
+ORD1089,Fries,6.36,4,Dinner,Wednesday,0,61,Male
+ORD1090,Fries,4.05,2,Dinner,Tuesday,1,23,Other
+ORD1091,Big Mac,6.12,3,Late Night,Saturday,0,54,Male
+ORD1092,Coke,8.99,1,Late Night,Monday,1,46,Male
+ORD1093,Iced Coffee,6.01,1,Late Night,Tuesday,0,34,Male
+ORD1094,Filet-O-Fish,7.49,4,Breakfast,Friday,0,42,Other
+ORD1095,Iced Coffee,8.25,3,Breakfast,Thursday,0,47,Other
+ORD1096,Apple Pie,9.9,2,Late Night,Friday,1,18,Male
+ORD1097,Filet-O-Fish,6.43,4,Lunch,Thursday,0,60,Female
+ORD1098,Apple Pie,8.26,2,Dinner,Friday,0,48,Male
+ORD1099,Cheeseburger,9.66,1,Dinner,Wednesday,1,62,Female
+ORD1100,McChicken,9.5,2,Breakfast,Tuesday,1,17,Male
+ORD1101,Big Mac,2.27,2,Dinner,Thursday,0,40,Male
+ORD1102,Filet-O-Fish,4.66,4,Lunch,Monday,0,22,Male
+ORD1103,Filet-O-Fish,3.92,2,Dinner,Tuesday,0,20,Other
+ORD1104,Cheeseburger,1.78,4,Breakfast,Monday,0,30,Female
+ORD1105,Coke,6.7,1,Breakfast,Tuesday,0,38,Female
+ORD1106,Fries,7.62,4,Lunch,Tuesday,1,62,Male
+ORD1107,Cheeseburger,8.63,4,Lunch,Friday,0,53,Other
+ORD1108,Chicken Nuggets,2.1,3,Dinner,Thursday,0,44,Other
+ORD1109,Fries,8.89,2,Dinner,Thursday,0,59,Female
+ORD1110,Big Mac,6.79,1,Breakfast,Sunday,0,27,Other
+ORD1111,Fries,7.34,4,Lunch,Tuesday,0,19,Female
+ORD1112,Coke,9.2,1,Lunch,Wednesday,0,39,Female
+ORD1113,Fries,6.62,3,Lunch,Wednesday,0,34,Female
+ORD1114,Big Mac,4.02,2,Dinner,Monday,1,68,Other
+ORD1115,Coke,8.43,4,Lunch,Monday,0,32,Female
+ORD1116,Iced Coffee,4.27,2,Breakfast,Friday,1,61,Female
+ORD1117,Filet-O-Fish,1.31,3,Breakfast,Tuesday,1,32,Male
+ORD1118,Filet-O-Fish,8.48,3,Dinner,Monday,0,16,Female
+ORD1119,Apple Pie,4.11,1,Late Night,Monday,1,24,Female
+ORD1120,Iced Coffee,7.96,4,Dinner,Saturday,0,69,Male
+ORD1121,Iced Coffee,4.26,1,Late Night,Tuesday,0,59,Male
+ORD1122,Fries,8.75,3,Lunch,Friday,1,64,Other
+ORD1123,Filet-O-Fish,2.98,2,Dinner,Monday,0,61,Female
+ORD1124,Big Mac,9.77,1,Breakfast,Friday,0,26,Other
+ORD1125,McFlurry,8.02,1,Lunch,Thursday,1,61,Other
+ORD1126,McFlurry,2.03,2,Breakfast,Friday,0,27,Male
+ORD1127,Coke,6.09,1,Lunch,Wednesday,0,64,Other
+ORD1128,Filet-O-Fish,9.87,2,Dinner,Wednesday,1,61,Female
+ORD1129,Filet-O-Fish,5.24,4,Late Night,Friday,0,69,Male
+ORD1130,McFlurry,2.64,2,Lunch,Wednesday,0,25,Female
+ORD1131,Filet-O-Fish,5.36,4,Late Night,Thursday,0,33,Female
+ORD1132,Fries,5.61,2,Lunch,Tuesday,0,49,Male
+ORD1133,Chicken Nuggets,7.68,3,Breakfast,Wednesday,0,53,Female
+ORD1134,McChicken,7.29,3,Breakfast,Wednesday,1,67,Male
+ORD1135,Iced Coffee,4.62,4,Lunch,Friday,0,40,Female
+ORD1136,Apple Pie,2.96,4,Late Night,Thursday,0,60,Male
+ORD1137,Coke,6.81,3,Dinner,Sunday,1,28,Other
+ORD1138,Chicken Nuggets,4.8,4,Dinner,Sunday,1,68,Female
+ORD1139,McFlurry,2.19,2,Breakfast,Sunday,0,59,Male
+ORD1140,Iced Coffee,9.11,2,Dinner,Sunday,0,58,Female
+ORD1141,Filet-O-Fish,7.22,3,Breakfast,Tuesday,0,38,Female
+ORD1142,Apple Pie,7.15,1,Dinner,Friday,0,55,Female
+ORD1143,Filet-O-Fish,8.4,2,Lunch,Friday,0,15,Male
+ORD1144,Big Mac,5.77,4,Breakfast,Saturday,0,65,Other
+ORD1145,Big Mac,8.34,1,Breakfast,Thursday,1,57,Other
+ORD1146,Apple Pie,5.48,1,Lunch,Sunday,1,69,Other
+ORD1147,Apple Pie,1.6,2,Breakfast,Tuesday,0,36,Male
+ORD1148,McFlurry,4.65,2,Dinner,Thursday,0,37,Other
+ORD1149,Apple Pie,5.48,1,Dinner,Sunday,0,68,Male
+ORD1150,Fries,7.48,1,Breakfast,Tuesday,0,33,Female
+ORD1151,Filet-O-Fish,1.96,3,Dinner,Thursday,0,32,Female
+ORD1152,Chicken Nuggets,2.26,4,Late Night,Friday,1,26,Other
+ORD1153,Cheeseburger,3.37,3,Breakfast,Friday,0,69,Male
+ORD1154,Apple Pie,3.4,2,Lunch,Monday,0,42,Female
+ORD1155,Coke,7.59,3,Late Night,Wednesday,1,42,Male
+ORD1156,Big Mac,3.26,3,Breakfast,Sunday,0,47,Male
+ORD1157,Fries,6.7,3,Lunch,Saturday,0,33,Female
+ORD1158,Iced Coffee,5.45,3,Dinner,Thursday,0,42,Male
+ORD1159,Cheeseburger,6.16,4,Lunch,Saturday,0,66,Female
+ORD1160,Chicken Nuggets,8.54,4,Late Night,Monday,1,63,Female
+ORD1161,Cheeseburger,4.64,1,Dinner,Wednesday,0,51,Female
+ORD1162,Apple Pie,7.94,2,Breakfast,Thursday,0,40,Male
+ORD1163,McFlurry,4.8,3,Dinner,Tuesday,0,49,Female
+ORD1164,Big Mac,4.18,1,Breakfast,Sunday,1,48,Male
+ORD1165,Big Mac,9.63,1,Breakfast,Wednesday,0,49,Female
+ORD1166,Iced Coffee,2.66,1,Lunch,Friday,0,54,Female
+ORD1167,McFlurry,1.81,4,Lunch,Monday,0,30,Other
+ORD1168,Filet-O-Fish,7.94,3,Lunch,Wednesday,0,52,Other
+ORD1169,McChicken,1.61,3,Late Night,Sunday,0,27,Other
+ORD1170,Fries,8.53,2,Late Night,Wednesday,0,37,Male
+ORD1171,Big Mac,4.93,3,Lunch,Sunday,0,68,Male
+ORD1172,Coke,9.24,3,Late Night,Friday,0,36,Female
+ORD1173,Big Mac,7.49,1,Dinner,Thursday,1,30,Female
+ORD1174,Cheeseburger,6.49,2,Dinner,Tuesday,0,42,Female
+ORD1175,Big Mac,9.54,3,Late Night,Friday,0,62,Female
+ORD1176,Big Mac,4.57,4,Late Night,Tuesday,0,49,Male
+ORD1177,McChicken,9.59,3,Dinner,Thursday,1,59,Female
+ORD1178,McChicken,2.22,1,Breakfast,Wednesday,0,60,Female
+ORD1179,Chicken Nuggets,5.35,4,Dinner,Tuesday,1,22,Other
+ORD1180,Filet-O-Fish,3.43,1,Dinner,Monday,1,58,Female
+ORD1181,Coke,5.86,3,Late Night,Monday,0,69,Female
+ORD1182,Big Mac,2.46,4,Dinner,Sunday,1,69,Female
+ORD1183,Big Mac,8.57,2,Late Night,Friday,0,36,Male
+ORD1184,Fries,8.62,2,Late Night,Thursday,0,35,Other
+ORD1185,McChicken,9.6,4,Lunch,Sunday,1,40,Female
+ORD1186,Coke,2.39,4,Dinner,Friday,1,54,Female
+ORD1187,Iced Coffee,6.61,1,Breakfast,Friday,0,35,Other
+ORD1188,Chicken Nuggets,5.27,4,Lunch,Sunday,0,39,Female
+ORD1189,Filet-O-Fish,4.1,1,Late Night,Saturday,0,55,Male
+ORD1190,McFlurry,4.16,3,Late Night,Friday,1,15,Female
+ORD1191,Filet-O-Fish,4.72,1,Breakfast,Saturday,0,20,Male
+ORD1192,Cheeseburger,7.34,4,Late Night,Monday,0,37,Male
+ORD1193,Big Mac,6.38,4,Dinner,Monday,0,65,Female
+ORD1194,Chicken Nuggets,5.14,3,Lunch,Friday,0,37,Other
+ORD1195,Cheeseburger,1.68,4,Late Night,Monday,1,57,Male
+ORD1196,Coke,1.7,4,Late Night,Thursday,0,57,Other
+ORD1197,McFlurry,1.02,2,Breakfast,Saturday,1,37,Female
+ORD1198,McChicken,9.71,2,Dinner,Saturday,0,46,Male
+ORD1199,Chicken Nuggets,1.05,3,Late Night,Friday,1,44,Female
+ORD1200,Chicken Nuggets,1.93,1,Breakfast,Monday,0,27,Other
+ORD1201,Big Mac,3.83,2,Late Night,Tuesday,0,57,Female
+ORD1202,Apple Pie,8.27,1,Breakfast,Sunday,0,32,Female
+ORD1203,Chicken Nuggets,9.66,4,Breakfast,Sunday,0,37,Male
+ORD1204,Fries,8.11,2,Dinner,Saturday,0,29,Female
+ORD1205,McFlurry,7.22,3,Late Night,Friday,1,47,Female
+ORD1206,McFlurry,5.69,3,Dinner,Friday,0,35,Female
+ORD1207,Fries,1.78,3,Breakfast,Thursday,0,53,Male
+ORD1208,Iced Coffee,9.62,2,Lunch,Wednesday,0,37,Other
+ORD1209,Fries,7.83,1,Late Night,Wednesday,0,41,Other
+ORD1210,Fries,6.75,4,Lunch,Saturday,0,59,Female
+ORD1211,McFlurry,7.83,1,Late Night,Sunday,1,58,Male
+ORD1212,Filet-O-Fish,7.52,1,Dinner,Thursday,1,32,Female
+ORD1213,McFlurry,6.74,4,Dinner,Thursday,0,38,Other
+ORD1214,Apple Pie,9.83,4,Dinner,Thursday,0,65,Male
+ORD1215,Big Mac,9.13,2,Dinner,Saturday,0,61,Other
+ORD1216,Cheeseburger,6.82,2,Dinner,Wednesday,0,54,Other
+ORD1217,Filet-O-Fish,7.24,2,Lunch,Sunday,0,65,Male
+ORD1218,McChicken,1.46,2,Dinner,Thursday,0,56,Male
+ORD1219,Cheeseburger,7.03,2,Breakfast,Sunday,0,21,Female
+ORD1220,Big Mac,1.4,4,Breakfast,Monday,0,64,Female
+ORD1221,Apple Pie,6.29,1,Lunch,Friday,1,62,Other
+ORD1222,Apple Pie,9.99,2,Late Night,Friday,0,34,Male
+ORD1223,McChicken,6.0,2,Breakfast,Sunday,0,41,Male
+ORD1224,Filet-O-Fish,5.26,1,Late Night,Tuesday,0,20,Female
+ORD1225,Iced Coffee,3.82,2,Lunch,Tuesday,0,41,Other
+ORD1226,Fries,2.08,1,Late Night,Saturday,1,23,Other
+ORD1227,Filet-O-Fish,7.58,1,Late Night,Saturday,1,67,Female
+ORD1228,Iced Coffee,2.73,4,Late Night,Friday,1,59,Male
+ORD1229,Apple Pie,2.04,3,Late Night,Monday,0,45,Female
+ORD1230,McFlurry,4.8,4,Lunch,Wednesday,1,35,Female
+ORD1231,Big Mac,8.16,3,Breakfast,Wednesday,0,40,Female
+ORD1232,McChicken,7.71,3,Dinner,Saturday,1,54,Female
+ORD1233,Big Mac,1.49,3,Late Night,Monday,0,62,Male
+ORD1234,Coke,5.1,2,Breakfast,Saturday,1,59,Female
+ORD1235,Coke,5.7,4,Breakfast,Wednesday,1,27,Male
+ORD1236,Filet-O-Fish,6.8,3,Lunch,Sunday,1,63,Female
+ORD1237,Apple Pie,6.85,1,Breakfast,Saturday,0,37,Other
+ORD1238,Apple Pie,4.28,2,Lunch,Thursday,0,34,Male
+ORD1239,Fries,6.05,4,Late Night,Sunday,1,51,Other
+ORD1240,Fries,5.33,3,Late Night,Saturday,0,68,Female
+ORD1241,Fries,8.96,1,Dinner,Friday,1,67,Female
+ORD1242,McFlurry,5.77,4,Dinner,Saturday,0,42,Female
+ORD1243,Cheeseburger,4.97,4,Dinner,Friday,0,31,Male
+ORD1244,Chicken Nuggets,4.64,2,Breakfast,Monday,1,42,Other
+ORD1245,Cheeseburger,6.15,4,Late Night,Wednesday,0,55,Male
+ORD1246,Big Mac,8.24,2,Lunch,Sunday,0,16,Male
+ORD1247,Cheeseburger,5.85,3,Dinner,Sunday,0,39,Female
+ORD1248,McFlurry,6.95,2,Lunch,Tuesday,0,64,Other
+ORD1249,Big Mac,7.64,1,Lunch,Tuesday,1,55,Female
+ORD1250,Cheeseburger,5.68,2,Dinner,Wednesday,0,20,Male
+ORD1251,McFlurry,4.84,1,Late Night,Tuesday,1,25,Female
+ORD1252,Chicken Nuggets,8.89,2,Dinner,Sunday,1,52,Other
+ORD1253,Cheeseburger,4.76,4,Lunch,Saturday,0,20,Female
+ORD1254,McFlurry,5.16,3,Dinner,Monday,1,59,Other
+ORD1255,Fries,9.91,1,Lunch,Monday,0,25,Other
+ORD1256,Apple Pie,1.0,2,Lunch,Wednesday,0,28,Female
+ORD1257,Fries,2.67,2,Dinner,Tuesday,1,16,Male
+ORD1258,Apple Pie,4.46,2,Breakfast,Saturday,0,54,Female
+ORD1259,McChicken,9.39,4,Dinner,Monday,0,17,Male
+ORD1260,McChicken,1.63,4,Breakfast,Monday,0,69,Male
+ORD1261,McChicken,1.09,1,Lunch,Thursday,0,67,Female
+ORD1262,Chicken Nuggets,1.47,1,Lunch,Thursday,0,49,Male
+ORD1263,Fries,1.8,4,Breakfast,Sunday,1,47,Male
+ORD1264,Apple Pie,1.34,1,Lunch,Monday,0,38,Female
+ORD1265,McFlurry,5.32,3,Breakfast,Wednesday,0,33,Female
+ORD1266,Big Mac,6.23,3,Breakfast,Friday,0,32,Female
+ORD1267,McFlurry,3.45,4,Lunch,Friday,0,63,Male
+ORD1268,Big Mac,4.58,1,Late Night,Saturday,0,66,Other
+ORD1269,Coke,1.83,2,Breakfast,Monday,0,38,Male
+ORD1270,McFlurry,4.03,3,Dinner,Monday,0,59,Other
+ORD1271,Cheeseburger,5.7,4,Dinner,Sunday,0,49,Female
+ORD1272,Cheeseburger,7.59,1,Lunch,Monday,0,15,Other
+ORD1273,Filet-O-Fish,1.03,4,Late Night,Wednesday,0,50,Female
+ORD1274,Fries,5.21,2,Lunch,Thursday,1,39,Female
+ORD1275,Big Mac,3.67,3,Late Night,Monday,1,59,Other
+ORD1276,Big Mac,8.68,4,Breakfast,Monday,0,63,Female
+ORD1277,Fries,7.44,4,Breakfast,Sunday,1,57,Other
+ORD1278,Chicken Nuggets,6.3,4,Breakfast,Tuesday,1,48,Female
+ORD1279,Filet-O-Fish,3.5,2,Breakfast,Sunday,0,39,Male
+ORD1280,Chicken Nuggets,9.19,4,Dinner,Sunday,0,30,Male
+ORD1281,Chicken Nuggets,1.41,2,Dinner,Wednesday,1,48,Female
+ORD1282,Chicken Nuggets,1.99,2,Lunch,Saturday,1,43,Female
+ORD1283,Fries,4.52,2,Late Night,Monday,0,33,Other
+ORD1284,Chicken Nuggets,2.12,3,Breakfast,Sunday,1,37,Male
+ORD1285,Cheeseburger,9.61,3,Breakfast,Sunday,0,33,Other
+ORD1286,McChicken,8.18,4,Late Night,Tuesday,1,39,Female
+ORD1287,Coke,3.33,4,Late Night,Sunday,1,30,Female
+ORD1288,Big Mac,6.3,3,Lunch,Friday,0,68,Other
+ORD1289,Big Mac,9.84,1,Late Night,Saturday,1,65,Female
+ORD1290,Coke,8.96,3,Breakfast,Monday,0,23,Male
+ORD1291,Fries,6.41,2,Breakfast,Monday,0,15,Other
+ORD1292,McFlurry,9.13,3,Breakfast,Tuesday,1,56,Male
+ORD1293,Fries,9.9,2,Breakfast,Wednesday,0,33,Male
+ORD1294,Big Mac,7.69,4,Breakfast,Monday,0,47,Male
+ORD1295,Big Mac,1.58,1,Lunch,Friday,0,48,Other
+ORD1296,Coke,4.61,4,Breakfast,Monday,0,30,Female
+ORD1297,Chicken Nuggets,8.54,2,Lunch,Friday,0,58,Male
+ORD1298,Fries,3.08,2,Breakfast,Saturday,1,54,Male
+ORD1299,Apple Pie,8.48,2,Dinner,Saturday,0,69,Male
+ORD1300,Coke,2.08,1,Dinner,Thursday,0,32,Female
+ORD1301,Cheeseburger,1.42,3,Dinner,Thursday,0,48,Female
+ORD1302,Big Mac,4.46,4,Dinner,Friday,1,39,Other
+ORD1303,Coke,1.33,4,Lunch,Wednesday,1,59,Female
+ORD1304,Fries,9.62,3,Lunch,Monday,1,20,Other
+ORD1305,Big Mac,8.44,4,Late Night,Sunday,1,35,Other
+ORD1306,McFlurry,8.21,1,Breakfast,Monday,1,20,Other
+ORD1307,Coke,6.67,4,Dinner,Thursday,0,46,Other
+ORD1308,Filet-O-Fish,2.95,2,Lunch,Sunday,0,55,Other
+ORD1309,Big Mac,5.66,3,Breakfast,Friday,0,62,Male
+ORD1310,Fries,6.38,1,Breakfast,Sunday,1,57,Female
+ORD1311,McChicken,5.73,3,Lunch,Monday,1,53,Male
+ORD1312,Apple Pie,3.34,1,Dinner,Monday,0,45,Other
+ORD1313,Iced Coffee,5.64,2,Late Night,Wednesday,1,56,Female
+ORD1314,Chicken Nuggets,5.42,3,Breakfast,Tuesday,0,24,Male
+ORD1315,Iced Coffee,9.97,4,Late Night,Sunday,0,44,Male
+ORD1316,Fries,9.08,1,Dinner,Thursday,0,66,Other
+ORD1317,Cheeseburger,5.17,3,Dinner,Thursday,0,32,Male
+ORD1318,Cheeseburger,6.61,4,Late Night,Tuesday,0,38,Male
+ORD1319,McChicken,7.73,3,Dinner,Monday,0,66,Male
+ORD1320,Chicken Nuggets,1.31,3,Breakfast,Wednesday,0,23,Male
+ORD1321,Filet-O-Fish,9.05,3,Late Night,Wednesday,0,45,Male
+ORD1322,McChicken,8.74,1,Dinner,Thursday,1,29,Other
+ORD1323,Iced Coffee,5.12,4,Late Night,Wednesday,1,18,Other
+ORD1324,McChicken,4.52,2,Breakfast,Saturday,1,54,Male
+ORD1325,Iced Coffee,3.46,1,Dinner,Tuesday,0,23,Other
+ORD1326,Big Mac,5.29,1,Breakfast,Monday,0,59,Other
+ORD1327,Cheeseburger,1.4,1,Dinner,Saturday,1,23,Female
+ORD1328,Big Mac,8.67,2,Lunch,Tuesday,0,40,Male
+ORD1329,Apple Pie,1.32,4,Dinner,Friday,0,18,Other
+ORD1330,Chicken Nuggets,3.96,4,Late Night,Sunday,0,31,Other
+ORD1331,Filet-O-Fish,9.38,4,Dinner,Thursday,0,30,Male
+ORD1332,Iced Coffee,7.62,3,Breakfast,Wednesday,0,29,Female
+ORD1333,Filet-O-Fish,3.53,3,Breakfast,Friday,0,49,Male
+ORD1334,Iced Coffee,3.27,3,Dinner,Wednesday,0,66,Female
+ORD1335,Fries,1.05,2,Late Night,Saturday,0,19,Male
+ORD1336,McChicken,7.26,3,Lunch,Monday,0,69,Male
+ORD1337,Apple Pie,1.44,2,Late Night,Monday,0,19,Male
+ORD1338,Cheeseburger,5.79,4,Lunch,Monday,0,34,Male
+ORD1339,Iced Coffee,9.66,3,Breakfast,Wednesday,0,29,Female
+ORD1340,Filet-O-Fish,1.99,3,Late Night,Friday,0,32,Female
+ORD1341,Apple Pie,9.05,1,Lunch,Monday,0,61,Other
+ORD1342,McFlurry,9.92,2,Dinner,Friday,0,16,Male
+ORD1343,McFlurry,1.55,4,Breakfast,Wednesday,0,43,Female
+ORD1344,Big Mac,8.95,1,Dinner,Saturday,0,27,Female
+ORD1345,Cheeseburger,5.64,1,Breakfast,Friday,1,18,Female
+ORD1346,Fries,9.16,4,Late Night,Saturday,0,56,Male
+ORD1347,Filet-O-Fish,6.14,1,Late Night,Wednesday,0,59,Other
+ORD1348,McChicken,6.96,2,Breakfast,Wednesday,0,24,Female
+ORD1349,McChicken,5.89,2,Breakfast,Thursday,0,45,Male
+ORD1350,Filet-O-Fish,8.78,3,Breakfast,Wednesday,0,55,Female
+ORD1351,Chicken Nuggets,7.61,1,Late Night,Wednesday,0,22,Female
+ORD1352,Fries,5.69,3,Lunch,Tuesday,1,17,Other
+ORD1353,Apple Pie,8.81,1,Dinner,Monday,0,62,Female
+ORD1354,Iced Coffee,3.21,2,Dinner,Thursday,0,60,Female
+ORD1355,Chicken Nuggets,2.42,2,Late Night,Sunday,0,23,Male
+ORD1356,Iced Coffee,2.44,2,Dinner,Thursday,1,44,Male
+ORD1357,Iced Coffee,4.01,1,Breakfast,Thursday,0,67,Other
+ORD1358,Chicken Nuggets,3.15,2,Lunch,Sunday,1,25,Male
+ORD1359,Big Mac,9.37,1,Dinner,Tuesday,0,49,Male
+ORD1360,McFlurry,1.95,3,Lunch,Saturday,1,51,Other
+ORD1361,Iced Coffee,7.29,1,Breakfast,Wednesday,1,56,Female
+ORD1362,Chicken Nuggets,2.7,3,Dinner,Monday,0,27,Other
+ORD1363,Chicken Nuggets,8.93,1,Late Night,Friday,0,50,Male
+ORD1364,Coke,9.65,3,Lunch,Sunday,0,27,Other
+ORD1365,Big Mac,5.19,2,Breakfast,Saturday,0,26,Female
+ORD1366,Cheeseburger,8.91,3,Lunch,Sunday,1,51,Other
+ORD1367,Coke,1.05,2,Dinner,Wednesday,0,24,Male
+ORD1368,Coke,8.38,2,Dinner,Tuesday,0,23,Male
+ORD1369,Filet-O-Fish,3.06,3,Late Night,Sunday,0,66,Other
+ORD1370,McFlurry,9.18,1,Breakfast,Wednesday,1,21,Female
+ORD1371,Chicken Nuggets,1.01,1,Breakfast,Wednesday,0,16,Other
+ORD1372,McFlurry,6.01,4,Late Night,Tuesday,0,68,Female
+ORD1373,Fries,7.81,1,Late Night,Thursday,0,37,Female
+ORD1374,Filet-O-Fish,3.33,4,Breakfast,Thursday,1,53,Other
+ORD1375,Cheeseburger,2.74,1,Lunch,Monday,0,54,Female
+ORD1376,McFlurry,1.76,1,Lunch,Monday,0,53,Male
+ORD1377,McChicken,3.94,2,Late Night,Thursday,0,35,Other
+ORD1378,Iced Coffee,6.04,4,Lunch,Saturday,0,37,Female
+ORD1379,Fries,2.04,1,Breakfast,Friday,0,43,Male
+ORD1380,Big Mac,4.39,4,Dinner,Wednesday,1,28,Other
+ORD1381,Cheeseburger,1.08,2,Dinner,Friday,1,40,Male
+ORD1382,Fries,8.37,2,Lunch,Wednesday,0,65,Male
+ORD1383,Iced Coffee,2.16,4,Late Night,Thursday,1,19,Male
+ORD1384,Filet-O-Fish,3.55,2,Late Night,Monday,0,69,Female
+ORD1385,Iced Coffee,1.17,3,Late Night,Saturday,1,45,Other
+ORD1386,Coke,4.89,3,Late Night,Monday,1,39,Other
+ORD1387,Iced Coffee,8.56,2,Late Night,Friday,0,45,Female
+ORD1388,Coke,4.53,3,Lunch,Monday,1,64,Other
+ORD1389,Filet-O-Fish,2.62,1,Dinner,Thursday,0,34,Male
+ORD1390,Apple Pie,7.78,4,Dinner,Saturday,0,58,Other
+ORD1391,Coke,8.1,1,Lunch,Friday,0,69,Female
+ORD1392,Big Mac,2.56,4,Late Night,Saturday,0,31,Male
+ORD1393,Iced Coffee,7.94,2,Lunch,Wednesday,1,59,Female
+ORD1394,Iced Coffee,9.53,1,Dinner,Monday,1,16,Male
+ORD1395,Big Mac,2.5,2,Breakfast,Saturday,0,39,Male
+ORD1396,McChicken,7.94,2,Lunch,Tuesday,1,27,Other
+ORD1397,Chicken Nuggets,7.38,4,Late Night,Monday,1,53,Male
+ORD1398,Apple Pie,5.26,4,Dinner,Wednesday,0,42,Female
+ORD1399,Cheeseburger,1.52,4,Dinner,Saturday,0,56,Other
+ORD1400,Coke,1.67,1,Dinner,Friday,0,69,Female
+ORD1401,Big Mac,8.67,3,Dinner,Wednesday,0,20,Male
+ORD1402,Filet-O-Fish,9.91,4,Late Night,Tuesday,1,17,Female
+ORD1403,Coke,7.08,4,Breakfast,Saturday,0,49,Female
+ORD1404,Chicken Nuggets,5.01,1,Dinner,Sunday,1,32,Male
+ORD1405,Filet-O-Fish,6.83,4,Lunch,Sunday,0,25,Other
+ORD1406,Fries,6.35,1,Breakfast,Thursday,0,68,Female
+ORD1407,Iced Coffee,4.45,2,Dinner,Monday,0,34,Male
+ORD1408,Fries,1.59,4,Breakfast,Friday,0,19,Other
+ORD1409,Coke,8.39,4,Lunch,Thursday,0,33,Other
+ORD1410,Chicken Nuggets,4.35,2,Dinner,Saturday,0,36,Other
+ORD1411,Apple Pie,8.37,2,Lunch,Sunday,0,33,Female
+ORD1412,Coke,3.27,2,Late Night,Sunday,0,61,Female
+ORD1413,Big Mac,1.01,4,Dinner,Sunday,0,30,Female
+ORD1414,McFlurry,2.43,3,Dinner,Saturday,1,38,Other
+ORD1415,Coke,5.22,3,Dinner,Sunday,0,55,Female
+ORD1416,Iced Coffee,9.5,3,Dinner,Wednesday,0,18,Male
+ORD1417,Iced Coffee,1.92,4,Late Night,Saturday,0,29,Female
+ORD1418,Coke,8.69,2,Dinner,Friday,0,39,Female
+ORD1419,Filet-O-Fish,5.74,4,Breakfast,Thursday,1,58,Other
+ORD1420,McFlurry,8.43,2,Dinner,Friday,0,69,Female
+ORD1421,Big Mac,3.69,4,Late Night,Tuesday,0,49,Male
+ORD1422,Coke,8.56,4,Dinner,Sunday,1,69,Other
+ORD1423,Filet-O-Fish,7.96,2,Breakfast,Tuesday,0,28,Male
+ORD1424,Iced Coffee,3.07,3,Late Night,Monday,0,63,Other
+ORD1425,Iced Coffee,2.18,2,Late Night,Monday,0,33,Other
+ORD1426,Chicken Nuggets,8.81,1,Breakfast,Tuesday,0,52,Female
+ORD1427,Coke,9.67,1,Breakfast,Saturday,0,50,Male
+ORD1428,McFlurry,1.28,2,Breakfast,Friday,0,21,Other
+ORD1429,McChicken,7.58,4,Breakfast,Tuesday,1,44,Female
+ORD1430,McFlurry,9.19,1,Breakfast,Monday,1,33,Other
+ORD1431,Iced Coffee,8.72,1,Late Night,Tuesday,0,63,Other
+ORD1432,Iced Coffee,9.68,4,Late Night,Saturday,0,39,Other
+ORD1433,Fries,7.84,4,Dinner,Tuesday,1,30,Other
+ORD1434,Iced Coffee,4.98,3,Dinner,Friday,0,61,Other
+ORD1435,Big Mac,3.81,4,Lunch,Thursday,1,68,Other
+ORD1436,Cheeseburger,3.89,2,Dinner,Saturday,1,54,Female
+ORD1437,Coke,7.52,2,Dinner,Monday,1,65,Other
+ORD1438,McFlurry,7.71,3,Breakfast,Friday,0,22,Male
+ORD1439,Cheeseburger,2.8,1,Breakfast,Tuesday,0,32,Female
+ORD1440,Filet-O-Fish,8.81,1,Dinner,Tuesday,0,42,Male
+ORD1441,McChicken,7.43,4,Lunch,Thursday,1,30,Other
+ORD1442,Big Mac,6.06,2,Breakfast,Monday,0,66,Male
+ORD1443,McFlurry,5.24,1,Dinner,Monday,1,33,Other
+ORD1444,Cheeseburger,5.89,3,Dinner,Wednesday,0,56,Other
+ORD1445,McChicken,2.43,3,Late Night,Monday,0,31,Female
+ORD1446,Fries,2.83,2,Lunch,Thursday,0,59,Female
+ORD1447,Big Mac,1.82,3,Late Night,Sunday,0,27,Other
+ORD1448,Big Mac,2.38,3,Lunch,Wednesday,0,21,Female
+ORD1449,Fries,5.08,2,Breakfast,Wednesday,0,41,Male
+ORD1450,Coke,5.77,4,Lunch,Tuesday,1,24,Female
+ORD1451,Fries,1.16,4,Dinner,Tuesday,0,48,Female
+ORD1452,Big Mac,8.17,3,Dinner,Monday,0,50,Male
+ORD1453,Big Mac,3.65,4,Lunch,Wednesday,0,39,Female
+ORD1454,Cheeseburger,9.21,4,Lunch,Tuesday,1,20,Other
+ORD1455,Iced Coffee,9.71,3,Lunch,Thursday,1,38,Male
+ORD1456,McChicken,2.67,4,Late Night,Tuesday,0,32,Other
+ORD1457,Fries,5.16,3,Lunch,Saturday,1,37,Male
+ORD1458,McChicken,1.01,1,Breakfast,Saturday,1,20,Other
+ORD1459,Fries,6.38,2,Late Night,Tuesday,0,43,Other
+ORD1460,Filet-O-Fish,6.47,2,Late Night,Wednesday,0,39,Female
+ORD1461,Big Mac,3.23,4,Lunch,Sunday,0,69,Other
+ORD1462,Iced Coffee,6.03,4,Breakfast,Sunday,0,31,Female
+ORD1463,Cheeseburger,3.03,4,Late Night,Wednesday,1,60,Male
+ORD1464,Iced Coffee,2.45,2,Dinner,Friday,0,38,Other
+ORD1465,Iced Coffee,6.86,1,Late Night,Sunday,1,25,Other
+ORD1466,Iced Coffee,3.93,1,Lunch,Saturday,0,40,Male
+ORD1467,McChicken,6.31,2,Breakfast,Thursday,0,65,Male
+ORD1468,Fries,4.9,1,Lunch,Wednesday,0,48,Other
+ORD1469,Apple Pie,9.86,2,Dinner,Monday,0,42,Male
+ORD1470,Filet-O-Fish,2.35,1,Dinner,Saturday,1,17,Female
+ORD1471,McFlurry,5.18,3,Dinner,Thursday,1,25,Male
+ORD1472,Iced Coffee,7.12,3,Lunch,Thursday,0,52,Male
+ORD1473,Coke,4.56,2,Late Night,Wednesday,0,28,Other
+ORD1474,McChicken,9.77,1,Lunch,Thursday,0,65,Female
+ORD1475,Cheeseburger,7.5,4,Breakfast,Wednesday,0,40,Male
+ORD1476,McFlurry,6.91,1,Late Night,Sunday,0,62,Female
+ORD1477,Apple Pie,7.81,3,Dinner,Tuesday,0,35,Female
+ORD1478,Coke,9.57,3,Lunch,Saturday,0,68,Female
+ORD1479,Apple Pie,9.17,1,Dinner,Friday,1,53,Other
+ORD1480,McFlurry,7.52,1,Dinner,Tuesday,0,44,Male
+ORD1481,Iced Coffee,7.74,4,Breakfast,Saturday,0,22,Other
+ORD1482,Coke,2.31,4,Late Night,Wednesday,0,65,Male
+ORD1483,Apple Pie,1.93,1,Breakfast,Saturday,0,34,Male
+ORD1484,Cheeseburger,6.14,1,Breakfast,Sunday,0,62,Other
+ORD1485,Fries,1.17,1,Breakfast,Wednesday,1,46,Female
+ORD1486,Big Mac,5.34,1,Dinner,Tuesday,1,36,Female
+ORD1487,Fries,2.89,2,Breakfast,Monday,0,21,Male
+ORD1488,McFlurry,4.11,1,Breakfast,Monday,0,23,Other
+ORD1489,McChicken,7.98,4,Late Night,Saturday,0,59,Female
+ORD1490,Big Mac,9.47,3,Late Night,Monday,1,15,Female
+ORD1491,Filet-O-Fish,1.65,2,Breakfast,Wednesday,0,43,Male
+ORD1492,Cheeseburger,5.81,1,Late Night,Thursday,0,22,Male
+ORD1493,Filet-O-Fish,8.94,3,Late Night,Wednesday,0,68,Other
+ORD1494,Coke,1.74,2,Breakfast,Thursday,0,18,Male
+ORD1495,Big Mac,8.42,3,Dinner,Tuesday,0,49,Female
+ORD1496,Filet-O-Fish,4.22,1,Breakfast,Friday,1,17,Female
+ORD1497,Filet-O-Fish,3.9,1,Late Night,Thursday,0,68,Female
+ORD1498,Apple Pie,9.8,4,Dinner,Monday,0,59,Female
+ORD1499,Fries,2.81,1,Lunch,Wednesday,0,54,Other
+ORD1500,Apple Pie,7.24,1,Dinner,Tuesday,1,21,Other
+ORD1501,Big Mac,8.39,2,Late Night,Monday,1,41,Male
+ORD1502,Big Mac,1.37,4,Dinner,Tuesday,0,15,Male
+ORD1503,McFlurry,7.03,2,Breakfast,Friday,1,41,Male
+ORD1504,Apple Pie,9.56,3,Lunch,Sunday,0,30,Other
+ORD1505,Chicken Nuggets,2.12,1,Lunch,Wednesday,0,52,Female
+ORD1506,Fries,9.07,3,Lunch,Saturday,0,21,Male
+ORD1507,Big Mac,6.35,2,Late Night,Wednesday,0,58,Female
+ORD1508,McFlurry,6.55,1,Late Night,Friday,0,37,Male
+ORD1509,Apple Pie,6.52,1,Lunch,Wednesday,0,55,Male
+ORD1510,Fries,3.69,2,Dinner,Saturday,0,25,Male
+ORD1511,Apple Pie,9.42,2,Lunch,Thursday,1,56,Male
+ORD1512,Filet-O-Fish,9.53,2,Dinner,Tuesday,0,67,Male
+ORD1513,McFlurry,6.63,2,Dinner,Saturday,0,47,Female
+ORD1514,Fries,8.05,2,Late Night,Monday,0,64,Male
+ORD1515,Iced Coffee,6.51,1,Dinner,Friday,1,50,Female
+ORD1516,Coke,5.36,2,Lunch,Thursday,0,51,Other
+ORD1517,Coke,6.95,1,Late Night,Monday,0,55,Male
+ORD1518,Fries,5.98,1,Breakfast,Monday,1,31,Female
+ORD1519,Apple Pie,6.38,2,Breakfast,Friday,0,49,Other
+ORD1520,McFlurry,8.05,2,Late Night,Thursday,0,62,Other
+ORD1521,Coke,5.33,4,Lunch,Sunday,1,19,Other
+ORD1522,McFlurry,1.37,1,Breakfast,Monday,0,62,Female
+ORD1523,Coke,2.48,2,Breakfast,Monday,0,46,Male
+ORD1524,Filet-O-Fish,4.95,2,Dinner,Thursday,0,17,Male
+ORD1525,Apple Pie,7.52,2,Dinner,Wednesday,0,66,Female
+ORD1526,Filet-O-Fish,6.34,4,Lunch,Monday,0,61,Male
+ORD1527,Coke,6.85,4,Late Night,Tuesday,0,49,Female
+ORD1528,Iced Coffee,5.31,3,Lunch,Thursday,0,66,Male
+ORD1529,Iced Coffee,6.54,1,Late Night,Monday,0,28,Other
+ORD1530,Filet-O-Fish,3.96,3,Breakfast,Friday,1,62,Male
+ORD1531,Iced Coffee,5.23,2,Dinner,Saturday,0,45,Female
+ORD1532,Coke,7.7,4,Lunch,Tuesday,0,45,Female
+ORD1533,Fries,8.85,4,Lunch,Saturday,1,31,Other
+ORD1534,Filet-O-Fish,4.9,3,Late Night,Saturday,0,38,Female
+ORD1535,McChicken,1.39,4,Late Night,Monday,0,66,Male
+ORD1536,Apple Pie,2.46,2,Lunch,Tuesday,1,37,Male
+ORD1537,Iced Coffee,1.19,4,Late Night,Tuesday,0,32,Other
+ORD1538,Iced Coffee,6.88,3,Lunch,Wednesday,0,64,Female
+ORD1539,Big Mac,3.99,2,Lunch,Saturday,1,68,Other
+ORD1540,Chicken Nuggets,5.88,3,Lunch,Tuesday,0,28,Male
+ORD1541,Filet-O-Fish,5.44,4,Breakfast,Wednesday,0,64,Other
+ORD1542,Cheeseburger,1.73,3,Late Night,Thursday,0,29,Female
+ORD1543,Iced Coffee,4.63,3,Dinner,Wednesday,0,29,Other
+ORD1544,Apple Pie,2.99,1,Dinner,Friday,0,20,Female
+ORD1545,McChicken,4.77,4,Late Night,Sunday,1,41,Female
+ORD1546,Iced Coffee,2.83,4,Lunch,Monday,0,29,Male
+ORD1547,McChicken,8.56,3,Dinner,Thursday,1,64,Male
+ORD1548,Coke,2.57,1,Dinner,Sunday,0,50,Male
+ORD1549,Coke,9.65,4,Late Night,Sunday,1,69,Female
+ORD1550,Chicken Nuggets,4.74,2,Dinner,Thursday,1,22,Other
+ORD1551,Fries,8.62,3,Lunch,Friday,0,29,Female
+ORD1552,Cheeseburger,6.66,4,Late Night,Wednesday,0,17,Male
+ORD1553,Big Mac,7.62,2,Lunch,Monday,0,61,Male
+ORD1554,Chicken Nuggets,7.91,4,Dinner,Wednesday,0,27,Other
+ORD1555,McFlurry,5.54,2,Dinner,Tuesday,1,55,Male
+ORD1556,Big Mac,5.89,3,Lunch,Wednesday,1,48,Male
+ORD1557,Filet-O-Fish,5.63,4,Breakfast,Thursday,0,38,Male
+ORD1558,Apple Pie,6.29,4,Dinner,Monday,0,54,Other
+ORD1559,McFlurry,1.26,1,Breakfast,Wednesday,0,46,Female
+ORD1560,McFlurry,4.56,3,Dinner,Monday,0,46,Male
+ORD1561,Chicken Nuggets,6.46,2,Breakfast,Monday,0,44,Other
+ORD1562,Fries,6.38,4,Breakfast,Tuesday,1,66,Male
+ORD1563,Chicken Nuggets,8.14,4,Breakfast,Tuesday,1,63,Other
+ORD1564,Filet-O-Fish,6.9,2,Lunch,Thursday,0,27,Male
+ORD1565,Iced Coffee,9.93,3,Breakfast,Friday,0,15,Other
+ORD1566,Iced Coffee,3.55,1,Breakfast,Sunday,0,48,Male
+ORD1567,Fries,4.23,1,Breakfast,Monday,0,29,Female
+ORD1568,Filet-O-Fish,4.45,4,Dinner,Friday,0,58,Male
+ORD1569,Fries,5.19,2,Breakfast,Sunday,0,28,Other
+ORD1570,McChicken,8.52,4,Dinner,Sunday,1,43,Male
+ORD1571,Iced Coffee,3.12,2,Breakfast,Thursday,0,48,Female
+ORD1572,McFlurry,7.98,1,Breakfast,Sunday,0,32,Male
+ORD1573,Cheeseburger,4.65,3,Lunch,Sunday,1,68,Other
+ORD1574,Apple Pie,6.42,2,Dinner,Monday,1,21,Other
+ORD1575,Filet-O-Fish,6.69,1,Breakfast,Monday,0,43,Female
+ORD1576,Big Mac,4.36,4,Dinner,Saturday,0,69,Other
+ORD1577,Fries,5.61,2,Dinner,Friday,0,45,Male
+ORD1578,Apple Pie,4.72,3,Late Night,Wednesday,1,39,Male
+ORD1579,Big Mac,1.62,4,Lunch,Tuesday,1,52,Male
+ORD1580,Apple Pie,4.93,4,Lunch,Wednesday,0,28,Other
+ORD1581,Cheeseburger,1.88,1,Lunch,Friday,0,22,Male
+ORD1582,Big Mac,4.65,2,Late Night,Tuesday,1,41,Male
+ORD1583,Chicken Nuggets,6.34,4,Late Night,Wednesday,0,68,Male
+ORD1584,Coke,6.21,3,Lunch,Saturday,0,16,Female
+ORD1585,Chicken Nuggets,6.96,2,Late Night,Tuesday,0,31,Other
+ORD1586,Iced Coffee,1.86,3,Late Night,Monday,0,51,Other
+ORD1587,Coke,6.87,4,Late Night,Wednesday,0,28,Other
+ORD1588,Chicken Nuggets,3.81,3,Lunch,Tuesday,1,39,Female
+ORD1589,Coke,4.59,1,Lunch,Saturday,1,44,Other
+ORD1590,Coke,8.72,3,Lunch,Sunday,0,43,Female
+ORD1591,McFlurry,1.08,2,Late Night,Tuesday,0,34,Female
+ORD1592,Fries,6.3,3,Lunch,Tuesday,0,35,Other
+ORD1593,Fries,6.39,3,Late Night,Saturday,0,67,Male
+ORD1594,McFlurry,4.57,1,Breakfast,Sunday,0,36,Male
+ORD1595,Apple Pie,3.13,3,Late Night,Wednesday,1,49,Other
+ORD1596,McChicken,3.11,3,Dinner,Thursday,0,51,Other
+ORD1597,Apple Pie,8.95,4,Lunch,Wednesday,0,30,Female
+ORD1598,Big Mac,4.98,4,Lunch,Sunday,0,64,Other
+ORD1599,Big Mac,3.98,2,Dinner,Friday,1,63,Female
+ORD1600,Coke,5.04,4,Late Night,Saturday,1,57,Other
+ORD1601,Chicken Nuggets,7.02,4,Breakfast,Wednesday,1,31,Male
+ORD1602,Chicken Nuggets,2.31,4,Dinner,Tuesday,1,30,Male
+ORD1603,Fries,5.04,4,Dinner,Saturday,0,69,Other
+ORD1604,Filet-O-Fish,6.29,1,Late Night,Monday,0,16,Female
+ORD1605,Apple Pie,9.54,4,Lunch,Sunday,0,18,Male
+ORD1606,Iced Coffee,3.27,1,Late Night,Wednesday,0,35,Female
+ORD1607,Cheeseburger,4.23,1,Dinner,Saturday,0,53,Other
+ORD1608,Chicken Nuggets,4.41,4,Dinner,Wednesday,0,48,Other
+ORD1609,Cheeseburger,6.45,3,Lunch,Saturday,0,44,Male
+ORD1610,Coke,4.21,1,Lunch,Tuesday,0,20,Other
+ORD1611,Cheeseburger,5.8,3,Lunch,Monday,0,31,Male
+ORD1612,Iced Coffee,8.04,3,Late Night,Monday,1,53,Female
+ORD1613,McFlurry,7.35,4,Lunch,Friday,0,39,Male
+ORD1614,Iced Coffee,5.02,2,Dinner,Saturday,0,19,Male
+ORD1615,Cheeseburger,8.78,4,Dinner,Wednesday,0,19,Female
+ORD1616,Iced Coffee,6.02,2,Breakfast,Monday,0,34,Male
+ORD1617,McChicken,5.86,2,Late Night,Sunday,0,30,Male
+ORD1618,Coke,1.31,4,Breakfast,Monday,0,65,Other
+ORD1619,Apple Pie,9.88,4,Dinner,Thursday,0,55,Female
+ORD1620,McFlurry,2.11,2,Breakfast,Thursday,0,51,Male
+ORD1621,Chicken Nuggets,3.08,4,Dinner,Monday,0,54,Female
+ORD1622,Big Mac,1.47,2,Breakfast,Saturday,0,23,Female
+ORD1623,Apple Pie,6.76,3,Lunch,Friday,0,19,Male
+ORD1624,Big Mac,3.02,4,Breakfast,Monday,0,56,Other
+ORD1625,Coke,2.62,3,Lunch,Tuesday,0,16,Female
+ORD1626,McFlurry,1.8,1,Lunch,Wednesday,0,23,Male
+ORD1627,Fries,1.93,3,Late Night,Friday,0,57,Female
+ORD1628,Chicken Nuggets,6.26,3,Lunch,Tuesday,0,50,Other
+ORD1629,McChicken,7.19,2,Lunch,Friday,0,36,Other
+ORD1630,Fries,4.58,3,Breakfast,Tuesday,0,36,Other
+ORD1631,Coke,5.32,4,Dinner,Wednesday,1,36,Male
+ORD1632,Apple Pie,7.17,2,Late Night,Wednesday,1,48,Male
+ORD1633,McChicken,1.16,1,Lunch,Thursday,1,69,Other
+ORD1634,Iced Coffee,3.91,4,Late Night,Saturday,0,43,Male
+ORD1635,Cheeseburger,9.76,1,Breakfast,Tuesday,0,52,Other
+ORD1636,McChicken,6.22,3,Lunch,Thursday,0,60,Male
+ORD1637,Coke,3.29,4,Breakfast,Tuesday,0,47,Other
+ORD1638,Filet-O-Fish,5.7,4,Late Night,Thursday,0,32,Female
+ORD1639,Cheeseburger,4.08,1,Breakfast,Wednesday,0,21,Other
+ORD1640,Big Mac,5.79,4,Late Night,Friday,1,15,Other
+ORD1641,Chicken Nuggets,2.13,4,Breakfast,Sunday,0,47,Male
+ORD1642,Big Mac,2.19,4,Late Night,Thursday,1,15,Male
+ORD1643,McChicken,2.29,3,Dinner,Tuesday,0,38,Male
+ORD1644,Big Mac,9.46,1,Breakfast,Tuesday,0,18,Male
+ORD1645,Coke,7.6,4,Breakfast,Sunday,0,18,Male
+ORD1646,Iced Coffee,2.46,2,Dinner,Saturday,0,32,Male
+ORD1647,Apple Pie,2.7,2,Dinner,Wednesday,1,41,Female
+ORD1648,Chicken Nuggets,7.58,2,Breakfast,Tuesday,0,57,Other
+ORD1649,Big Mac,2.41,2,Dinner,Monday,0,46,Other
+ORD1650,Big Mac,3.11,3,Lunch,Friday,1,47,Other
+ORD1651,McChicken,9.67,4,Late Night,Thursday,0,42,Female
+ORD1652,Apple Pie,3.3,1,Late Night,Saturday,1,56,Other
+ORD1653,Fries,6.95,4,Late Night,Sunday,0,55,Female
+ORD1654,Big Mac,9.81,3,Lunch,Friday,0,69,Female
+ORD1655,Coke,4.37,2,Dinner,Wednesday,0,50,Female
+ORD1656,Filet-O-Fish,1.16,3,Dinner,Saturday,0,20,Other
+ORD1657,Chicken Nuggets,3.2,4,Breakfast,Thursday,0,30,Female
+ORD1658,Big Mac,8.48,1,Dinner,Thursday,0,48,Other
+ORD1659,Coke,8.78,3,Breakfast,Sunday,1,37,Other
+ORD1660,Coke,7.92,1,Lunch,Monday,1,64,Male
+ORD1661,Chicken Nuggets,2.02,3,Late Night,Sunday,0,56,Male
+ORD1662,Fries,8.16,1,Late Night,Wednesday,0,38,Female
+ORD1663,Coke,9.27,1,Late Night,Saturday,0,63,Female
+ORD1664,Filet-O-Fish,6.41,2,Dinner,Saturday,0,27,Other
+ORD1665,Coke,9.47,1,Breakfast,Tuesday,0,32,Female
+ORD1666,Coke,8.44,2,Breakfast,Monday,0,68,Female
+ORD1667,Coke,7.0,4,Lunch,Monday,0,27,Other
+ORD1668,Iced Coffee,6.19,4,Dinner,Saturday,0,63,Female
+ORD1669,Iced Coffee,4.14,2,Lunch,Saturday,1,51,Female
+ORD1670,Fries,2.43,2,Breakfast,Friday,0,57,Other
+ORD1671,Big Mac,6.44,3,Breakfast,Friday,0,53,Other
+ORD1672,Coke,3.86,3,Late Night,Friday,0,56,Male
+ORD1673,Apple Pie,8.8,3,Dinner,Monday,0,31,Other
+ORD1674,Big Mac,9.94,4,Breakfast,Tuesday,0,29,Male
+ORD1675,Fries,7.77,3,Late Night,Thursday,0,32,Female
+ORD1676,McFlurry,1.81,1,Dinner,Friday,1,37,Other
+ORD1677,Big Mac,3.6,1,Lunch,Tuesday,0,68,Other
+ORD1678,Big Mac,1.98,3,Dinner,Sunday,0,65,Other
+ORD1679,Cheeseburger,6.85,1,Dinner,Wednesday,1,44,Female
+ORD1680,McChicken,7.89,4,Breakfast,Friday,1,48,Male
+ORD1681,Cheeseburger,9.33,1,Breakfast,Sunday,0,18,Female
+ORD1682,Filet-O-Fish,4.94,4,Dinner,Thursday,0,17,Female
+ORD1683,Iced Coffee,9.11,2,Breakfast,Wednesday,0,21,Other
+ORD1684,Iced Coffee,8.9,2,Breakfast,Wednesday,0,32,Male
+ORD1685,McChicken,3.85,2,Breakfast,Thursday,0,56,Female
+ORD1686,Chicken Nuggets,8.82,2,Late Night,Friday,0,21,Other
+ORD1687,Chicken Nuggets,4.38,1,Late Night,Monday,0,54,Female
+ORD1688,Fries,3.67,3,Dinner,Thursday,0,20,Female
+ORD1689,McChicken,6.84,1,Breakfast,Thursday,0,36,Other
+ORD1690,Big Mac,3.96,4,Late Night,Thursday,0,15,Other
+ORD1691,Chicken Nuggets,6.67,1,Dinner,Wednesday,0,18,Male
+ORD1692,Coke,6.49,1,Breakfast,Tuesday,0,60,Female
+ORD1693,Apple Pie,6.07,4,Lunch,Sunday,0,63,Other
+ORD1694,Big Mac,4.42,2,Breakfast,Monday,0,66,Other
+ORD1695,Filet-O-Fish,5.94,2,Breakfast,Friday,0,64,Male
+ORD1696,Coke,6.37,2,Late Night,Friday,0,57,Male
+ORD1697,Coke,5.91,3,Dinner,Sunday,0,43,Other
+ORD1698,McChicken,5.0,4,Dinner,Tuesday,0,35,Male
+ORD1699,Fries,1.13,4,Late Night,Thursday,1,40,Other
+ORD1700,Filet-O-Fish,6.28,1,Breakfast,Monday,1,28,Female
+ORD1701,Chicken Nuggets,2.52,3,Lunch,Friday,0,23,Male
+ORD1702,McChicken,6.78,2,Breakfast,Sunday,0,61,Female
+ORD1703,Chicken Nuggets,7.83,3,Breakfast,Saturday,0,26,Female
+ORD1704,McChicken,5.5,4,Lunch,Sunday,0,56,Female
+ORD1705,McChicken,5.88,4,Late Night,Friday,0,65,Other
+ORD1706,McChicken,9.56,1,Dinner,Thursday,1,65,Female
+ORD1707,Fries,8.62,1,Late Night,Saturday,0,20,Female
+ORD1708,McChicken,9.23,4,Late Night,Tuesday,0,34,Female
+ORD1709,McFlurry,8.32,2,Breakfast,Monday,1,38,Other
+ORD1710,Apple Pie,1.98,2,Dinner,Tuesday,1,41,Female
+ORD1711,Chicken Nuggets,2.34,3,Dinner,Tuesday,1,52,Female
+ORD1712,Big Mac,5.74,4,Late Night,Sunday,0,22,Male
+ORD1713,Cheeseburger,3.21,4,Lunch,Monday,0,15,Other
+ORD1714,Filet-O-Fish,5.29,2,Late Night,Monday,0,68,Female
+ORD1715,Iced Coffee,4.55,2,Lunch,Friday,0,63,Male
+ORD1716,Fries,5.94,4,Dinner,Friday,0,63,Other
+ORD1717,Big Mac,7.72,1,Late Night,Monday,0,38,Other
+ORD1718,Coke,7.44,4,Breakfast,Saturday,1,61,Other
+ORD1719,McFlurry,5.69,4,Late Night,Wednesday,0,21,Other
+ORD1720,Iced Coffee,8.4,2,Dinner,Friday,0,33,Other
+ORD1721,Cheeseburger,4.88,2,Breakfast,Wednesday,0,36,Other
+ORD1722,Big Mac,9.07,1,Breakfast,Sunday,0,69,Female
+ORD1723,Iced Coffee,1.64,1,Lunch,Saturday,0,49,Female
+ORD1724,Big Mac,9.59,3,Breakfast,Monday,0,44,Female
+ORD1725,McFlurry,6.89,4,Breakfast,Saturday,0,43,Female
+ORD1726,Cheeseburger,4.42,2,Late Night,Friday,1,36,Male
+ORD1727,Coke,2.77,1,Dinner,Tuesday,0,25,Female
+ORD1728,McChicken,5.31,3,Lunch,Sunday,1,34,Other
+ORD1729,Chicken Nuggets,2.75,3,Late Night,Monday,0,43,Female
+ORD1730,Coke,2.5,2,Breakfast,Thursday,0,65,Female
+ORD1731,McChicken,6.56,2,Breakfast,Sunday,0,55,Other
+ORD1732,Fries,5.71,3,Lunch,Wednesday,0,56,Female
+ORD1733,Apple Pie,7.03,1,Dinner,Saturday,0,48,Female
+ORD1734,Filet-O-Fish,9.37,3,Lunch,Monday,0,15,Female
+ORD1735,Filet-O-Fish,5.79,4,Late Night,Sunday,1,45,Male
+ORD1736,Chicken Nuggets,6.23,4,Lunch,Saturday,1,44,Female
+ORD1737,Cheeseburger,1.81,2,Breakfast,Monday,0,62,Other
+ORD1738,McFlurry,7.46,1,Late Night,Friday,1,32,Other
+ORD1739,Cheeseburger,4.6,1,Breakfast,Sunday,0,69,Female
+ORD1740,McFlurry,9.79,4,Dinner,Friday,1,31,Female
+ORD1741,Cheeseburger,8.41,3,Breakfast,Sunday,0,52,Female
+ORD1742,Apple Pie,5.7,2,Breakfast,Friday,0,28,Other
+ORD1743,Fries,2.11,3,Lunch,Saturday,1,37,Other
+ORD1744,Fries,8.73,3,Breakfast,Thursday,0,39,Male
+ORD1745,McChicken,8.2,3,Late Night,Sunday,1,29,Male
+ORD1746,Iced Coffee,2.66,1,Late Night,Sunday,0,60,Male
+ORD1747,Fries,3.66,4,Dinner,Friday,0,36,Other
+ORD1748,Fries,8.14,1,Late Night,Monday,0,17,Male
+ORD1749,Coke,2.67,4,Lunch,Sunday,0,69,Female
+ORD1750,Coke,9.26,2,Dinner,Friday,0,33,Female
+ORD1751,McChicken,4.82,2,Late Night,Tuesday,1,58,Other
+ORD1752,Iced Coffee,1.78,3,Lunch,Friday,0,48,Male
+ORD1753,Chicken Nuggets,8.34,4,Late Night,Saturday,1,49,Female
+ORD1754,Coke,4.36,4,Late Night,Thursday,1,64,Other
+ORD1755,Chicken Nuggets,5.74,4,Breakfast,Tuesday,0,15,Male
+ORD1756,Big Mac,2.01,3,Late Night,Saturday,1,66,Female
+ORD1757,Coke,1.02,3,Late Night,Saturday,1,35,Male
+ORD1758,Apple Pie,6.74,2,Lunch,Saturday,1,43,Other
+ORD1759,Iced Coffee,5.64,1,Lunch,Monday,1,20,Male
+ORD1760,McChicken,6.34,4,Breakfast,Saturday,1,51,Other
+ORD1761,Big Mac,8.14,4,Late Night,Monday,0,15,Male
+ORD1762,Iced Coffee,6.82,1,Breakfast,Saturday,0,65,Female
+ORD1763,Apple Pie,2.57,4,Late Night,Wednesday,1,15,Other
+ORD1764,Iced Coffee,4.25,3,Dinner,Tuesday,0,41,Other
+ORD1765,Apple Pie,9.15,3,Dinner,Wednesday,0,35,Other
+ORD1766,Apple Pie,7.93,4,Breakfast,Saturday,0,67,Male
+ORD1767,Chicken Nuggets,6.01,3,Breakfast,Tuesday,1,30,Male
+ORD1768,Cheeseburger,3.3,3,Breakfast,Tuesday,0,58,Female
+ORD1769,Big Mac,3.72,4,Lunch,Sunday,1,68,Other
+ORD1770,Iced Coffee,7.59,2,Lunch,Thursday,0,54,Other
+ORD1771,McFlurry,8.66,1,Lunch,Wednesday,0,40,Male
+ORD1772,Big Mac,7.04,3,Breakfast,Thursday,0,30,Male
+ORD1773,Cheeseburger,8.29,2,Late Night,Tuesday,0,42,Female
+ORD1774,Big Mac,7.9,3,Dinner,Monday,0,15,Female
+ORD1775,Fries,2.35,3,Breakfast,Tuesday,1,50,Male
+ORD1776,McFlurry,4.82,1,Lunch,Thursday,1,24,Other
+ORD1777,Cheeseburger,2.38,3,Lunch,Wednesday,0,57,Female
+ORD1778,Chicken Nuggets,3.12,1,Breakfast,Saturday,0,31,Male
+ORD1779,Iced Coffee,8.82,1,Breakfast,Sunday,1,37,Male
+ORD1780,Filet-O-Fish,5.26,1,Lunch,Sunday,1,21,Other
+ORD1781,Cheeseburger,5.82,2,Late Night,Sunday,0,58,Male
+ORD1782,McChicken,2.61,4,Lunch,Saturday,0,67,Male
+ORD1783,Iced Coffee,3.81,2,Lunch,Sunday,0,21,Female
+ORD1784,Cheeseburger,3.07,4,Breakfast,Wednesday,1,58,Male
+ORD1785,Fries,2.86,4,Late Night,Saturday,0,29,Male
+ORD1786,Filet-O-Fish,6.74,1,Lunch,Sunday,0,48,Female
+ORD1787,Fries,3.31,3,Lunch,Saturday,0,60,Other
+ORD1788,Filet-O-Fish,6.69,1,Dinner,Thursday,1,59,Other
+ORD1789,McChicken,1.53,3,Breakfast,Wednesday,0,18,Female
+ORD1790,Iced Coffee,2.28,4,Dinner,Friday,0,28,Female
+ORD1791,Chicken Nuggets,3.47,1,Dinner,Monday,0,28,Other
+ORD1792,Fries,6.37,3,Lunch,Sunday,0,30,Other
+ORD1793,Fries,7.08,2,Breakfast,Monday,0,21,Other
+ORD1794,Apple Pie,4.98,3,Late Night,Saturday,1,46,Other
+ORD1795,Filet-O-Fish,5.01,1,Lunch,Monday,1,33,Other
+ORD1796,Coke,7.52,2,Late Night,Wednesday,1,16,Female
+ORD1797,Iced Coffee,1.14,3,Late Night,Wednesday,1,24,Male
+ORD1798,Filet-O-Fish,4.07,3,Breakfast,Tuesday,0,64,Other
+ORD1799,Apple Pie,8.37,3,Dinner,Sunday,1,31,Other
+ORD1800,Big Mac,6.43,3,Breakfast,Tuesday,0,51,Male
+ORD1801,Filet-O-Fish,4.04,3,Late Night,Monday,0,26,Male
+ORD1802,Chicken Nuggets,9.15,2,Lunch,Friday,1,20,Male
+ORD1803,Iced Coffee,7.95,4,Late Night,Tuesday,0,36,Male
+ORD1804,Apple Pie,3.38,2,Lunch,Tuesday,0,46,Male
+ORD1805,Big Mac,6.81,2,Lunch,Wednesday,0,55,Male
+ORD1806,McFlurry,6.36,2,Breakfast,Friday,0,34,Female
+ORD1807,Apple Pie,4.61,4,Late Night,Saturday,0,15,Male
+ORD1808,McFlurry,4.3,1,Dinner,Monday,1,68,Male
+ORD1809,Iced Coffee,4.09,4,Late Night,Tuesday,1,61,Female
+ORD1810,Fries,6.55,2,Late Night,Friday,0,67,Male
+ORD1811,Apple Pie,4.98,3,Dinner,Sunday,0,20,Other
+ORD1812,McChicken,8.49,3,Breakfast,Friday,0,33,Other
+ORD1813,McFlurry,7.03,2,Late Night,Monday,1,32,Male
+ORD1814,Chicken Nuggets,1.63,3,Late Night,Friday,0,20,Female
+ORD1815,McChicken,6.76,2,Lunch,Friday,0,59,Other
+ORD1816,Cheeseburger,3.44,3,Late Night,Friday,0,47,Female
+ORD1817,Cheeseburger,6.34,4,Dinner,Sunday,0,37,Other
+ORD1818,Big Mac,7.12,1,Lunch,Tuesday,0,37,Male
+ORD1819,Fries,3.08,1,Breakfast,Monday,1,40,Female
+ORD1820,Iced Coffee,5.11,4,Lunch,Sunday,0,27,Female
+ORD1821,Apple Pie,2.71,4,Dinner,Friday,0,21,Female
+ORD1822,Coke,1.47,2,Dinner,Friday,0,29,Other
+ORD1823,Chicken Nuggets,4.41,2,Lunch,Tuesday,1,58,Other
+ORD1824,McFlurry,4.27,2,Breakfast,Monday,0,41,Other
+ORD1825,Iced Coffee,9.96,3,Lunch,Wednesday,0,40,Male
+ORD1826,McChicken,5.02,2,Breakfast,Sunday,0,47,Other
+ORD1827,Cheeseburger,4.0,4,Lunch,Tuesday,0,29,Male
+ORD1828,Chicken Nuggets,6.22,1,Dinner,Monday,1,50,Female
+ORD1829,Coke,1.8,3,Late Night,Sunday,0,59,Female
+ORD1830,Apple Pie,9.65,2,Late Night,Friday,1,69,Male
+ORD1831,Big Mac,6.71,3,Breakfast,Monday,0,41,Other
+ORD1832,Coke,7.79,3,Breakfast,Monday,1,19,Male
+ORD1833,Chicken Nuggets,2.53,2,Breakfast,Saturday,0,16,Female
+ORD1834,Coke,4.69,3,Dinner,Monday,1,69,Female
+ORD1835,Chicken Nuggets,4.8,1,Lunch,Wednesday,0,47,Male
+ORD1836,Chicken Nuggets,8.4,4,Dinner,Monday,0,30,Other
+ORD1837,Filet-O-Fish,1.01,4,Late Night,Wednesday,1,37,Other
+ORD1838,McFlurry,3.71,1,Breakfast,Friday,0,52,Male
+ORD1839,Cheeseburger,9.83,3,Lunch,Wednesday,0,69,Male
+ORD1840,Filet-O-Fish,5.27,2,Late Night,Sunday,0,30,Other
+ORD1841,Apple Pie,4.44,3,Late Night,Friday,0,28,Female
+ORD1842,Filet-O-Fish,2.08,1,Late Night,Friday,0,43,Male
+ORD1843,Fries,9.77,3,Dinner,Wednesday,0,40,Other
+ORD1844,Fries,1.18,4,Breakfast,Tuesday,0,49,Other
+ORD1845,Cheeseburger,7.63,3,Late Night,Thursday,1,29,Female
+ORD1846,Coke,7.92,1,Breakfast,Monday,0,17,Female
+ORD1847,McFlurry,3.19,4,Dinner,Saturday,1,37,Female
+ORD1848,Cheeseburger,7.04,3,Late Night,Thursday,1,43,Female
+ORD1849,Chicken Nuggets,1.84,3,Dinner,Monday,0,48,Female
+ORD1850,McChicken,3.31,4,Dinner,Monday,0,47,Male
+ORD1851,McFlurry,8.09,2,Breakfast,Friday,0,55,Other
+ORD1852,McFlurry,8.78,4,Late Night,Monday,0,55,Male
+ORD1853,Chicken Nuggets,6.48,2,Dinner,Saturday,1,37,Male
+ORD1854,Chicken Nuggets,5.56,1,Late Night,Monday,0,21,Male
+ORD1855,Big Mac,2.43,1,Breakfast,Wednesday,0,17,Male
+ORD1856,Cheeseburger,1.57,4,Dinner,Thursday,0,46,Male
+ORD1857,Chicken Nuggets,2.06,4,Breakfast,Wednesday,0,45,Female
+ORD1858,Fries,3.05,1,Late Night,Saturday,0,32,Female
+ORD1859,Apple Pie,4.08,2,Late Night,Monday,0,57,Other
+ORD1860,McChicken,4.43,1,Breakfast,Sunday,1,21,Male
+ORD1861,Cheeseburger,4.12,4,Lunch,Saturday,0,55,Other
+ORD1862,Iced Coffee,3.15,1,Dinner,Friday,0,15,Female
+ORD1863,Fries,5.59,4,Late Night,Wednesday,1,28,Female
+ORD1864,Coke,8.43,4,Late Night,Wednesday,0,66,Female
+ORD1865,Chicken Nuggets,3.52,1,Dinner,Tuesday,1,46,Male
+ORD1866,Iced Coffee,9.48,2,Breakfast,Monday,1,20,Male
+ORD1867,Chicken Nuggets,8.86,3,Breakfast,Friday,1,53,Female
+ORD1868,McFlurry,2.46,1,Breakfast,Sunday,1,24,Other
+ORD1869,Fries,8.08,3,Lunch,Wednesday,0,21,Other
+ORD1870,McFlurry,6.17,1,Lunch,Wednesday,1,40,Female
+ORD1871,Big Mac,6.1,3,Late Night,Friday,0,48,Other
+ORD1872,McFlurry,4.52,2,Breakfast,Saturday,1,44,Female
+ORD1873,Big Mac,5.51,2,Dinner,Saturday,1,50,Other
+ORD1874,Big Mac,4.57,1,Late Night,Monday,1,35,Female
+ORD1875,Iced Coffee,5.86,4,Dinner,Tuesday,1,31,Other
+ORD1876,Chicken Nuggets,6.65,3,Late Night,Wednesday,0,47,Male
+ORD1877,Coke,7.07,4,Lunch,Tuesday,1,24,Female
+ORD1878,McFlurry,5.79,4,Late Night,Saturday,0,65,Female
+ORD1879,Fries,7.49,4,Lunch,Saturday,1,61,Other
+ORD1880,Big Mac,2.27,2,Late Night,Thursday,0,56,Female
+ORD1881,Chicken Nuggets,2.91,1,Breakfast,Sunday,0,65,Female
+ORD1882,McChicken,8.37,1,Dinner,Monday,0,26,Female
+ORD1883,Cheeseburger,3.9,2,Breakfast,Thursday,0,30,Male
+ORD1884,Iced Coffee,1.21,2,Late Night,Sunday,1,55,Male
+ORD1885,Coke,2.38,1,Late Night,Thursday,0,46,Other
+ORD1886,Filet-O-Fish,3.01,4,Late Night,Thursday,0,29,Male
+ORD1887,Iced Coffee,9.62,3,Lunch,Monday,0,41,Other
+ORD1888,McChicken,6.16,3,Dinner,Monday,1,42,Male
+ORD1889,Cheeseburger,9.39,3,Dinner,Friday,0,31,Other
+ORD1890,McChicken,6.18,4,Late Night,Tuesday,0,60,Male
+ORD1891,McFlurry,5.31,1,Late Night,Tuesday,0,64,Male
+ORD1892,Big Mac,3.82,2,Lunch,Friday,0,16,Other
+ORD1893,Coke,6.46,1,Breakfast,Friday,0,50,Female
+ORD1894,Apple Pie,2.25,4,Breakfast,Saturday,0,64,Female
+ORD1895,Big Mac,9.08,2,Dinner,Sunday,0,21,Male
+ORD1896,Apple Pie,8.46,4,Lunch,Thursday,1,27,Other
+ORD1897,Cheeseburger,3.86,3,Late Night,Friday,1,29,Female
+ORD1898,Chicken Nuggets,9.58,3,Dinner,Wednesday,0,39,Other
+ORD1899,Filet-O-Fish,8.43,4,Lunch,Tuesday,1,37,Female
+ORD1900,Fries,7.0,2,Breakfast,Friday,0,36,Other
+ORD1901,Big Mac,2.1,2,Lunch,Wednesday,0,40,Male
+ORD1902,Coke,5.3,1,Breakfast,Wednesday,0,47,Other
+ORD1903,McChicken,5.55,3,Lunch,Wednesday,0,25,Female
+ORD1904,Coke,3.09,1,Dinner,Saturday,0,24,Male
+ORD1905,Cheeseburger,1.72,1,Breakfast,Saturday,0,39,Other
+ORD1906,Apple Pie,7.99,4,Dinner,Wednesday,0,51,Female
+ORD1907,McChicken,2.1,4,Dinner,Sunday,1,62,Male
+ORD1908,Fries,6.35,1,Breakfast,Saturday,0,57,Other
+ORD1909,Fries,9.43,3,Breakfast,Thursday,0,67,Female
+ORD1910,Big Mac,8.88,4,Late Night,Wednesday,0,52,Other
+ORD1911,Cheeseburger,3.5,1,Late Night,Thursday,0,55,Other
+ORD1912,Chicken Nuggets,8.66,1,Late Night,Thursday,0,59,Male
+ORD1913,Cheeseburger,1.0,1,Dinner,Wednesday,0,38,Male
+ORD1914,Apple Pie,1.16,1,Dinner,Tuesday,1,54,Female
+ORD1915,Coke,6.42,1,Late Night,Sunday,0,60,Male
+ORD1916,Fries,4.28,1,Dinner,Wednesday,0,47,Female
+ORD1917,Coke,4.48,4,Dinner,Wednesday,0,31,Other
+ORD1918,Coke,6.08,3,Breakfast,Saturday,0,38,Other
+ORD1919,Coke,2.73,1,Breakfast,Wednesday,0,51,Female
+ORD1920,Fries,2.91,2,Dinner,Tuesday,0,16,Other
+ORD1921,Iced Coffee,5.36,4,Late Night,Saturday,0,46,Male
+ORD1922,McFlurry,7.79,4,Lunch,Monday,0,38,Other
+ORD1923,Apple Pie,6.58,1,Late Night,Monday,0,23,Male
+ORD1924,Iced Coffee,3.68,4,Lunch,Thursday,0,18,Female
+ORD1925,Apple Pie,4.87,1,Late Night,Sunday,0,31,Female
+ORD1926,McChicken,2.54,3,Breakfast,Thursday,0,31,Other
+ORD1927,Cheeseburger,1.67,3,Dinner,Tuesday,0,67,Other
+ORD1928,Cheeseburger,8.04,4,Dinner,Friday,0,64,Male
+ORD1929,Filet-O-Fish,3.39,4,Breakfast,Sunday,0,62,Male
+ORD1930,Cheeseburger,2.6,2,Lunch,Monday,0,44,Other
+ORD1931,Fries,7.22,4,Lunch,Thursday,0,54,Other
+ORD1932,Chicken Nuggets,6.56,2,Lunch,Monday,0,25,Female
+ORD1933,Big Mac,6.7,3,Breakfast,Tuesday,1,35,Female
+ORD1934,Filet-O-Fish,3.06,3,Lunch,Tuesday,0,35,Female
+ORD1935,Big Mac,3.09,1,Breakfast,Friday,1,32,Other
+ORD1936,Apple Pie,2.99,3,Late Night,Friday,0,69,Other
+ORD1937,Big Mac,2.56,2,Late Night,Saturday,0,43,Other
+ORD1938,Big Mac,6.9,4,Breakfast,Sunday,0,38,Female
+ORD1939,Filet-O-Fish,8.63,1,Dinner,Tuesday,0,24,Other
+ORD1940,McChicken,7.52,2,Late Night,Thursday,0,59,Male
+ORD1941,Coke,8.13,4,Lunch,Monday,0,31,Other
+ORD1942,Cheeseburger,4.64,1,Breakfast,Wednesday,0,32,Other
+ORD1943,Cheeseburger,6.89,3,Lunch,Friday,0,56,Other
+ORD1944,Fries,4.19,2,Lunch,Wednesday,1,62,Other
+ORD1945,Filet-O-Fish,5.73,4,Dinner,Thursday,1,34,Other
+ORD1946,Fries,5.33,1,Lunch,Friday,0,51,Male
+ORD1947,Chicken Nuggets,2.59,1,Dinner,Wednesday,0,59,Male
+ORD1948,Chicken Nuggets,4.48,3,Late Night,Sunday,0,32,Other
+ORD1949,Fries,9.67,4,Breakfast,Thursday,0,31,Female
+ORD1950,Filet-O-Fish,3.24,3,Lunch,Monday,0,23,Other
+ORD1951,Fries,2.2,3,Breakfast,Sunday,1,28,Other
+ORD1952,Cheeseburger,4.77,4,Lunch,Thursday,0,63,Other
+ORD1953,Iced Coffee,8.11,4,Breakfast,Saturday,0,43,Female
+ORD1954,McFlurry,6.24,4,Lunch,Friday,0,45,Female
+ORD1955,Big Mac,7.13,2,Lunch,Tuesday,1,18,Female
+ORD1956,McFlurry,2.71,4,Lunch,Monday,0,32,Male
+ORD1957,Filet-O-Fish,6.57,1,Lunch,Sunday,0,34,Female
+ORD1958,McFlurry,3.91,3,Lunch,Sunday,1,61,Male
+ORD1959,Chicken Nuggets,8.51,2,Lunch,Wednesday,0,57,Male
+ORD1960,Apple Pie,6.66,4,Lunch,Friday,1,58,Female
+ORD1961,Big Mac,2.79,2,Lunch,Tuesday,0,23,Female
+ORD1962,Coke,1.58,4,Lunch,Thursday,1,27,Female
+ORD1963,Filet-O-Fish,1.38,2,Breakfast,Tuesday,0,29,Male
+ORD1964,Big Mac,4.34,3,Dinner,Friday,0,41,Other
+ORD1965,McFlurry,3.39,3,Lunch,Friday,1,29,Female
+ORD1966,Chicken Nuggets,6.81,1,Dinner,Saturday,0,42,Female
+ORD1967,McChicken,5.49,1,Lunch,Saturday,0,51,Female
+ORD1968,Iced Coffee,3.39,4,Lunch,Tuesday,0,69,Male
+ORD1969,Coke,2.34,3,Breakfast,Thursday,0,33,Male
+ORD1970,Iced Coffee,2.14,2,Late Night,Tuesday,0,40,Other
+ORD1971,Big Mac,8.78,2,Late Night,Friday,0,66,Female
+ORD1972,Chicken Nuggets,3.19,2,Breakfast,Friday,0,40,Male
+ORD1973,Chicken Nuggets,6.87,1,Dinner,Wednesday,0,39,Other
+ORD1974,McFlurry,8.3,2,Late Night,Saturday,0,40,Female
+ORD1975,Cheeseburger,6.53,1,Breakfast,Wednesday,0,40,Male
+ORD1976,McFlurry,8.74,1,Breakfast,Monday,1,60,Female
+ORD1977,Cheeseburger,4.53,4,Late Night,Friday,1,42,Female
+ORD1978,Cheeseburger,9.61,2,Dinner,Wednesday,1,63,Male
+ORD1979,Coke,2.2,2,Breakfast,Tuesday,0,32,Male
+ORD1980,McFlurry,1.92,3,Lunch,Saturday,0,46,Male
+ORD1981,McChicken,6.93,4,Dinner,Saturday,0,67,Female
+ORD1982,Fries,9.49,3,Dinner,Thursday,0,17,Female
+ORD1983,Fries,8.28,4,Late Night,Tuesday,0,16,Other
+ORD1984,McFlurry,1.69,2,Late Night,Thursday,0,47,Female
+ORD1985,McFlurry,3.51,1,Lunch,Wednesday,0,56,Male
+ORD1986,Iced Coffee,9.37,1,Breakfast,Sunday,1,33,Female
+ORD1987,Coke,3.28,1,Late Night,Monday,0,31,Other
+ORD1988,McFlurry,8.03,1,Late Night,Tuesday,0,58,Other
+ORD1989,Iced Coffee,8.43,1,Dinner,Tuesday,0,47,Male
+ORD1990,Cheeseburger,5.46,3,Late Night,Tuesday,0,26,Male
+ORD1991,Chicken Nuggets,4.48,4,Late Night,Thursday,1,63,Other
+ORD1992,Chicken Nuggets,5.05,2,Late Night,Wednesday,0,17,Other
+ORD1993,Cheeseburger,3.04,3,Late Night,Tuesday,0,57,Other
+ORD1994,Filet-O-Fish,9.0,4,Dinner,Sunday,0,63,Male
+ORD1995,Iced Coffee,5.06,1,Lunch,Tuesday,0,69,Other
+ORD1996,Iced Coffee,8.94,4,Lunch,Saturday,0,40,Other
+ORD1997,Cheeseburger,1.95,4,Breakfast,Monday,1,49,Male
+ORD1998,McChicken,9.89,1,Late Night,Saturday,1,22,Female
+ORD1999,Apple Pie,4.99,1,Dinner,Saturday,1,66,Female

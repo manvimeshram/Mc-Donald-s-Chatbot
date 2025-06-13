@@ -1,0 +1,50 @@
+# mcd_chatbot.py
+
+import random
+import nltk
+from nltk.stem import PorterStemmer
+from datamcd import data
+
+# Download NLTK resources if not already present
+nltk.download('punkt')
+
+stemmer = PorterStemmer()
+
+# Intent to response map
+INTENT_RESPONSE_MAP = {
+    "greetings": "responses",
+    "farewells": "farewell_responses",
+    "questions": "question_responses",
+    "small_talk": "small_talk_responses"
+}
+
+# Preprocess input: tokenize and stem
+def preprocess(sentence):
+    tokens = nltk.word_tokenize(sentence.lower())
+    return [stemmer.stem(token) for token in tokens]
+
+# Match intent and return a response
+def get_response(user_input):
+    processed_input = preprocess(user_input)
+    
+    for intent_category, response_category in INTENT_RESPONSE_MAP.items():
+        for pattern in data[intent_category]:
+            processed_pattern = preprocess(pattern)
+            if all(word in processed_input for word in processed_pattern):
+                return random.choice(data[response_category])
+    
+    return "I'm not sure how to respond to that. Could you rephrase?"
+
+# Chat loop
+def chat():
+    print("McDonald's Bot: Hello! I'm your virtual assistant. Type 'exit' to quit.")
+    while True:
+        user_input = input("You: ").strip()
+        if user_input.lower() == "exit":
+            print("McDonald's Bot: Thank you! Have a tasty day! 🍟")
+            break
+        response = get_response(user_input)
+        print(f"McDonald's Bot: {response}")
+
+if __name__ == "__main__":
+    chat()

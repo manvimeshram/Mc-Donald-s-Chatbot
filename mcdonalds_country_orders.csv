@@ -1,0 +1,101 @@
+Order_ID,Country,Menu_Item,Price_USD,Quantity,Order_Time
+ORD1000,Japan,McFlurry,4.33,2,Dinner
+ORD1001,France,McChicken,10.11,2,Lunch
+ORD1002,France,Coke,11.99,1,Lunch
+ORD1003,USA,McFlurry,3.72,2,Breakfast
+ORD1004,Brazil,Big Mac,4.28,2,Dinner
+ORD1005,UK,Cheeseburger,8.46,2,Late Night
+ORD1006,Germany,Fries,11.64,2,Lunch
+ORD1007,Australia,Nuggets,11.12,2,Dinner
+ORD1008,UK,McFlurry,6.78,4,Late Night
+ORD1009,Canada,Apple Pie,9.85,2,Dinner
+ORD1010,Australia,Filet-O-Fish,2.93,3,Lunch
+ORD1011,USA,Apple Pie,11.76,1,Breakfast
+ORD1012,Japan,Iced Coffee,11.63,4,Dinner
+ORD1013,France,Fries,3.22,4,Late Night
+ORD1014,Australia,Big Mac,4.64,2,Lunch
+ORD1015,Australia,Coke,2.55,1,Breakfast
+ORD1016,France,Fries,4.35,3,Late Night
+ORD1017,France,Nuggets,10.07,2,Late Night
+ORD1018,Australia,Cheeseburger,5.47,1,Late Night
+ORD1019,Japan,McFlurry,2.43,2,Dinner
+ORD1020,Japan,Coke,5.09,2,Lunch
+ORD1021,India,Coke,11.8,2,Late Night
+ORD1022,USA,McFlurry,8.11,2,Dinner
+ORD1023,Germany,McFlurry,5.87,2,Lunch
+ORD1024,Brazil,McFlurry,3.25,2,Lunch
+ORD1025,UK,McFlurry,11.85,2,Dinner
+ORD1026,USA,McFlurry,10.12,3,Dinner
+ORD1027,France,Coke,4.46,4,Late Night
+ORD1028,USA,McChicken,2.24,3,Lunch
+ORD1029,Canada,McChicken,2.09,2,Breakfast
+ORD1030,South Korea,Apple Pie,2.76,2,Dinner
+ORD1031,France,McChicken,7.6,3,Lunch
+ORD1032,Canada,Nuggets,11.25,3,Lunch
+ORD1033,South Korea,McChicken,6.72,4,Late Night
+ORD1034,South Korea,Coke,10.35,3,Breakfast
+ORD1035,Germany,McFlurry,6.18,4,Late Night
+ORD1036,Canada,Filet-O-Fish,8.94,2,Breakfast
+ORD1037,India,Filet-O-Fish,9.18,1,Breakfast
+ORD1038,Japan,Nuggets,3.33,1,Dinner
+ORD1039,Australia,Iced Coffee,5.29,1,Lunch
+ORD1040,India,Coke,8.19,1,Lunch
+ORD1041,Australia,Big Mac,2.24,2,Lunch
+ORD1042,Canada,Fries,5.3,1,Breakfast
+ORD1043,Australia,Apple Pie,7.12,3,Lunch
+ORD1044,UK,Big Mac,11.96,3,Dinner
+ORD1045,Japan,Coke,6.48,1,Breakfast
+ORD1046,Australia,McChicken,10.07,3,Breakfast
+ORD1047,USA,McFlurry,6.04,4,Breakfast
+ORD1048,France,Big Mac,9.86,2,Breakfast
+ORD1049,UK,Fries,7.75,1,Dinner
+ORD1050,UK,Iced Coffee,10.81,1,Lunch
+ORD1051,Australia,Filet-O-Fish,5.81,2,Dinner
+ORD1052,UK,Iced Coffee,7.85,3,Lunch
+ORD1053,Japan,Fries,8.12,2,Dinner
+ORD1054,USA,McFlurry,5.88,2,Late Night
+ORD1055,Australia,McChicken,3.02,3,Late Night
+ORD1056,India,Fries,2.48,2,Late Night
+ORD1057,Australia,Apple Pie,1.68,3,Late Night
+ORD1058,Germany,Fries,10.67,3,Breakfast
+ORD1059,South Korea,Coke,3.98,2,Breakfast
+ORD1060,Canada,McChicken,3.72,4,Dinner
+ORD1061,USA,McFlurry,9.23,3,Dinner
+ORD1062,Germany,Filet-O-Fish,4.86,2,Late Night
+ORD1063,USA,Filet-O-Fish,6.81,3,Lunch
+ORD1064,South Korea,Fries,3.21,4,Late Night
+ORD1065,Canada,Coke,11.58,4,Dinner
+ORD1066,Japan,Big Mac,10.44,1,Late Night
+ORD1067,Japan,Iced Coffee,10.57,3,Dinner
+ORD1068,Canada,Iced Coffee,5.77,3,Late Night
+ORD1069,Australia,Iced Coffee,9.5,2,Lunch
+ORD1070,USA,Big Mac,3.01,3,Late Night
+ORD1071,Germany,Coke,1.59,1,Lunch
+ORD1072,USA,Iced Coffee,1.71,4,Lunch
+ORD1073,Brazil,Apple Pie,7.66,4,Dinner
+ORD1074,South Korea,Big Mac,6.28,1,Lunch
+ORD1075,Canada,Big Mac,6.94,3,Breakfast
+ORD1076,Canada,McFlurry,1.58,3,Breakfast
+ORD1077,Japan,McFlurry,5.94,1,Breakfast
+ORD1078,Canada,McChicken,9.04,2,Dinner
+ORD1079,India,Apple Pie,6.15,4,Breakfast
+ORD1080,France,Apple Pie,9.19,1,Dinner
+ORD1081,UK,McChicken,3.95,1,Dinner
+ORD1082,India,Apple Pie,10.04,3,Breakfast
+ORD1083,Germany,Nuggets,7.68,4,Lunch
+ORD1084,Brazil,Cheeseburger,3.71,3,Late Night
+ORD1085,Brazil,Iced Coffee,3.99,1,Dinner
+ORD1086,USA,McFlurry,8.09,2,Breakfast
+ORD1087,USA,McChicken,10.21,4,Dinner
+ORD1088,South Korea,McChicken,5.86,1,Lunch
+ORD1089,Brazil,Apple Pie,4.21,1,Lunch
+ORD1090,USA,Big Mac,10.6,2,Breakfast
+ORD1091,India,Filet-O-Fish,8.53,1,Dinner
+ORD1092,Germany,Fries,6.2,1,Late Night
+ORD1093,Canada,Fries,6.62,4,Late Night
+ORD1094,India,McChicken,3.64,4,Dinner
+ORD1095,USA,Iced Coffee,8.08,4,Dinner
+ORD1096,Brazil,Nuggets,5.27,3,Dinner
+ORD1097,Canada,Iced Coffee,11.95,2,Breakfast
+ORD1098,Australia,McChicken,6.54,4,Lunch
+ORD1099,Canada,Iced Coffee,6.6,3,Late Night
